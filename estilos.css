@@ -18,7 +18,7 @@ font-size: 60px;
 
 h5{
 
-    color:rgb(0, 255, 21)
+    color:rgb(0, 255, 213);
 
 }
 
@@ -27,3 +27,10 @@ p{
     font-family: Impact;
 
 }
+
+h7{
+
+    color:red;
+
+}
+
